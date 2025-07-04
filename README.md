@@ -32,9 +32,9 @@ Ensure you have the following installed:
    ```bash
    git clone <your-repository-url>
    cd eda-platform
-2.
-  ```bash
+2. ```bash
    npm install
+   
 This will install:
 
 React + TypeScript
