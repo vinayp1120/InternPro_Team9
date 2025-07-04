@@ -32,7 +32,9 @@ Ensure you have the following installed:
    ```bash
    git clone <your-repository-url>
    cd eda-platform
-2.npm install
+2.
+  ```bash
+   npm install
 This will install:
 
 React + TypeScript
@@ -52,14 +54,17 @@ Simple Statistics
 Date-fns
 
 And other dependencies
-3.Start Development Server
-npm run dev
+
+3. Start Development Server
+   ```bash
+      npm run dev
 output:  VITE v5.4.2  ready in 500 ms
 
 ➜  Local:   http://localhost:5173/
 ➜  Network: use --host to expose
 ➜  press h + enter to show help
-4 Open in Browser
+
+4. Open in Browser
 
 Visit: http://localhost:5173
 You should see the EDA platform landing page!
